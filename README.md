@@ -1,2 +1,5 @@
-# collectivework
-The web-app that add money in your pocket by taking online works.
+## collectivework
+
+
+## Description
+You can add works, assign the person whichever you choose, or do works whatever you want.
